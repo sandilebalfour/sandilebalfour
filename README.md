@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sandilebalfour
+- 👋 Hi, I’m Sandile Ngwenya.
 - 👀 I’m interested in Coding spaces.
-- 🌱 I’m currently learning JavaScript, Python and C#. 
-- 💞️ I’m looking to collaborate on any web development project to gain more experience. 
+- 🌱 I’m currently learning Java, JavaScript, Python and C# .
+- 💞️ I’m looking to collaborate on any backend development project to gain more experience. 
 - 📫 How to reach me: Email; sandilebalfour@gmail.com
 - 😄 Pronouns: None. 
 - ⚡ Fun fact: You learn something new everyday. 
