@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sandile Ngwenya.
-- 👀 I’m interested in Coding spaces.
+- 👀 I’m a software engineer in training.
 - 🌱 I’m currently learning Java, JavaScript, Python and C# .
 - 💞️ I’m looking to collaborate on any backend development project to gain more experience. 
 - 📫 How to reach me: Email; sandilebalfour@gmail.com
